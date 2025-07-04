@@ -1,0 +1,20 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Discographie.dir/Debug/DiscographieTests.ixx.o",
+"provides": [
+{
+"logical-name": "DiscographieTests",
+"is-interface": true
+}
+],
+"requires": [
+{
+"logical-name": "Discographie"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

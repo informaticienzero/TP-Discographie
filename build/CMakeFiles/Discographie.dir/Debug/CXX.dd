@@ -1,0 +1,12 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Discographie.dir/Debug/main.cpp.o: dyndep | CMakeFiles/Discographie.dir/Debug/Discographie.gcm CMakeFiles/Discographie.dir/Debug/DiscographieTests.gcm CMakeFiles/Discographie.dir/Debug/String.gcm
+
+build CMakeFiles/Discographie.dir/Debug/DiscographieTests.ixx.o | CMakeFiles/Discographie.dir/Debug/DiscographieTests.gcm: dyndep | CMakeFiles/Discographie.dir/Debug/Discographie.gcm
+  restat = 1
+
+build CMakeFiles/Discographie.dir/Debug/String.ixx.o | CMakeFiles/Discographie.dir/Debug/String.gcm: dyndep
+  restat = 1
+
+build CMakeFiles/Discographie.dir/Debug/Discographie.ixx.o | CMakeFiles/Discographie.dir/Debug/Discographie.gcm: dyndep | CMakeFiles/Discographie.dir/Debug/String.gcm
+  restat = 1
+

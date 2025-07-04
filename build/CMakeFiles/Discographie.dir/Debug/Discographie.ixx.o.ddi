@@ -1,0 +1,20 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Discographie.dir/Debug/Discographie.ixx.o",
+"provides": [
+{
+"logical-name": "Discographie",
+"is-interface": true
+}
+],
+"requires": [
+{
+"logical-name": "String"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

@@ -1,0 +1,50 @@
+{
+	"modules" : 
+	{
+		"Discographie" : 
+		{
+			"bmi" : "/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/Discographie.dir/Debug/Discographie.gcm",
+			"is-private" : false
+		},
+		"DiscographieTests" : 
+		{
+			"bmi" : "/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/Discographie.dir/Debug/DiscographieTests.gcm",
+			"is-private" : false
+		},
+		"String" : 
+		{
+			"bmi" : "/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/Discographie.dir/Debug/String.gcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"Discographie" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Discographie.dir/Debug/Discographie.gcm"
+		},
+		"DiscographieTests" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Discographie.dir/Debug/DiscographieTests.gcm"
+		},
+		"String" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Discographie.dir/Debug/String.gcm"
+		}
+	},
+	"usages" : 
+	{
+		"Discographie" : 
+		[
+			"String"
+		],
+		"DiscographieTests" : 
+		[
+			"Discographie",
+			"String"
+		]
+	}
+}

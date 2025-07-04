@@ -1,0 +1,22 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/Discographie.dir/Debug/main.cpp.o",
+"requires": [
+{
+"logical-name": "Discographie"
+}
+,
+{
+"logical-name": "DiscographieTests"
+}
+,
+{
+"logical-name": "String"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

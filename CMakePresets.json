@@ -1,0 +1,49 @@
+{
+    "version": 10,
+    "configurePresets": [
+    {
+      "name": "default",
+      "description": "Configuration pour le TP Discographie",
+      "binaryDir": "${sourceDir}/build",
+      "hidden": true
+    },
+    {
+      "name": "linux",
+      "inherits": "default",
+      "displayName": "Configuration par défaut Unix/Linux",
+      "generator": "Ninja Multi-Config"
+    },
+    {
+      "name": "windows",
+      "inherits": "default",
+      "displayName": "Configuration par défaut Windows",
+      "generator": "Visual Studio 17 2022"
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "linux-debug",
+      "displayName": "Build de Debug pour Unix/Linux",
+      "configurePreset": "linux",
+      "configuration": "Debug"
+    },
+    {
+      "name": "linux-relase",
+      "displayName": "Build de Release pour Unix/Linux",
+      "configurePreset": "linux",
+      "configuration": "Release"
+    },
+    {
+      "name": "windows-debug",
+      "displayName": "Build de Debug pour Windows",
+      "configurePreset": "windows",
+      "configuration": "Debug"
+    },
+    {
+      "name": "windows-relase",
+      "displayName": "Build de Release pour Windows",
+      "configurePreset": "windows",
+      "configuration": "Release"
+    }
+  ]
+}

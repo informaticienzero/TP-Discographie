@@ -1,0 +1,3 @@
+/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/Discographie.dir
+/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/edit_cache.dir
+/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,59 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "RelWithDebInfo",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/Discographie.dir/RelWithDebInfo/Discographie.ixx.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/informaticienzero/Documents/cpp/Discographie-modules/Discographie.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/Discographie.dir/RelWithDebInfo/DiscographieTests.ixx.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/informaticienzero/Documents/cpp/Discographie-modules/DiscographieTests.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/Discographie.dir/RelWithDebInfo/String.ixx.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/informaticienzero/Documents/cpp/Discographie-modules/String.ixx",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/informaticienzero/Documents/cpp/Discographie-modules/build",
+	"dir-cur-src" : "/home/informaticienzero/Documents/cpp/Discographie-modules",
+	"dir-top-bld" : "/home/informaticienzero/Documents/cpp/Discographie-modules/build",
+	"dir-top-src" : "/home/informaticienzero/Documents/cpp/Discographie-modules",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/Discographie.dir/RelWithDebInfo",
+	"sources" : 
+	{
+		"CMakeFiles/Discographie.dir/RelWithDebInfo/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/informaticienzero/Documents/cpp/Discographie-modules/main.cpp"
+		}
+	}
+}

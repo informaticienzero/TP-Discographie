@@ -1,0 +1,19 @@
+# ninja log v5
+8	363	1751638760357926867	CMakeFiles/Discographie.dir/Debug/String.ixx.o.ddi	8e641f8098862793
+8	417	1751638760410926828	CMakeFiles/Discographie.dir/Debug/DiscographieTests.ixx.o.ddi	e5c765713980a35
+8	442	1751638760437926808	CMakeFiles/Discographie.dir/Debug/Discographie.ixx.o.ddi	9d8692e7b16f85d0
+7	548	1751638760544926730	CMakeFiles/Discographie.dir/Debug/main.cpp.o.ddi	3d16bcea2b73bf53
+548	560	1751638760557926720	CMakeFiles/Discographie.dir/Debug/CXX.dd	987378bd6c23ca6a
+548	560	1751638760557926720	/home/informaticienzero/Documents/cpp/Discographie-modules/build/CMakeFiles/Discographie.dir/Debug/CXXModules.json	987378bd6c23ca6a
+548	560	1751638760557926720	CMakeFiles/Discographie.dir/Debug/main.cpp.o.modmap	987378bd6c23ca6a
+548	560	1751638760557926720	CMakeFiles/Discographie.dir/Debug/DiscographieTests.ixx.o.modmap	987378bd6c23ca6a
+548	560	1751638760557926720	CMakeFiles/Discographie.dir/Debug/String.ixx.o.modmap	987378bd6c23ca6a
+548	560	1751638760557926720	CMakeFiles/Discographie.dir/Debug/Discographie.ixx.o.modmap	987378bd6c23ca6a
+561	2937	1751638762934924965	CMakeFiles/Discographie.dir/Debug/String.ixx.o	e86555d029cc5ca9
+561	2937	1751638762934924965	CMakeFiles/Discographie.dir/Debug/String.gcm	e86555d029cc5ca9
+2939	8887	1751638768880920537	CMakeFiles/Discographie.dir/Debug/Discographie.ixx.o	796606bd501b7370
+2939	8887	1751638768880920537	CMakeFiles/Discographie.dir/Debug/Discographie.gcm	796606bd501b7370
+8888	11463	1751638771460918599	CMakeFiles/Discographie.dir/Debug/DiscographieTests.ixx.o	c62f95b6150071d6
+8888	11463	1751638771460918599	CMakeFiles/Discographie.dir/Debug/DiscographieTests.gcm	c62f95b6150071d6
+11463	15023	1751638775017915910	CMakeFiles/Discographie.dir/Debug/main.cpp.o	5d428f71e9f4c3ed
+15023	15250	1751638775244915737	Debug/Discographie	b19dcfa37de4b11b

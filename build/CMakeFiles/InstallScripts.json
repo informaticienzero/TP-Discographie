@@ -1,0 +1,11 @@
+{
+	"Configs" : 
+	[
+		"Debug"
+	],
+	"InstallScripts" : 
+	[
+		"/home/informaticienzero/Documents/cpp/Discographie-modules/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
